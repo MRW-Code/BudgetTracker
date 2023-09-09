@@ -1,2 +1,2 @@
-# ReadingTracker
-A simple streamlit app for tracking which books you have read!
+# Budget Tracker
+A simple streamlit app for tracking spending and saving
